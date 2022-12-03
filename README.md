@@ -14,6 +14,13 @@ My goal of participating is mostly for fun since I enjoy those kinds of programm
 ## Run solutions
 
 To run a puzzle simply run its corresponding go file, for example for day one, first part, run the following:
-`go run ./1/a/a.go`
+
+```console
+go run ./1/a/a.go
+```
+
 Of course you need golang to be installed, check that by running:
-`go version`
+
+```console
+go version
+```
